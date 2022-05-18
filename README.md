@@ -12,3 +12,4 @@ Images are given to the project by first converting the image to the correspondi
 
 ## Modules ##
 ### Control Module ###
+The Control Module is responsible for loading the coefficients of the 3x3 filter kernel we will apply to the image. As said before, the project currently supports only positive coefficients (negative ones will be added to next version probably).
