@@ -7,3 +7,4 @@ Every version corresponds to one folder which has the following directories/file
 * **Testbenches:** To make sure the modules work
 * **work:** Folder library made by ModelSim software
 * **sv Files:** Modules of the project, made in System Verilog
+Images are given to the project by first converting the image to the corresponding values in decimal. The project also results the image in decimals in a .txt format so we must do the inverse conversion again. The path for the input .txt image (image for convolution) and the outputs path for the .txt file (convoluted image) are in the **convolution_filter_module_tb.sv** which is the file you want to run in the ModelSim to recreate the results.
