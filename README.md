@@ -32,3 +32,7 @@ This is the top module of the project and is responsible for connecting the modu
 
 ### Pipeline ##
 <div align="center"><img src="Convolution_Filter_Module_Pipeline.png"></div>
+
+# Team Members
+The team compromised from the following 2 members (in alphabetical order):
+- Anagnostou Pantazis 
