@@ -35,4 +35,5 @@ This is the top module of the project and is responsible for connecting the modu
 
 # Team Members
 The team compromised from the following 2 members (in alphabetical order):
-- Anagnostou Pantazis 
+- Anagnostou Pantazis [(github)](https://github.com/pantanag)
+- Karypidis Stathis [(github)](https://github.com/Sta8is)
